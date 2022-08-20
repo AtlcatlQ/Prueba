@@ -1,1 +1,3 @@
-Este es un simple texto
+Vamos a aplicar algunos cambios
+
+Por ejemplo, añadir líneas
